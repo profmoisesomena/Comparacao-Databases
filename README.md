@@ -16,7 +16,7 @@ Análise de bancos de dados
   * Pense em uma situação onde você poderia aplicar os conceitos aprendidos no trabalho.<br>
 ### Prática:<br>
   * Tutorial base de instalação<br>
-  * Links, Vídeos, Material de referência (para uso)<br>
+  * Links, Vídeos, Material de referência <br>
   * Criar 2 Exemplos de uso que serão apresentados em sala<br>
   
 Conclusões do trabalho <br>
